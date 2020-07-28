@@ -18,3 +18,8 @@ An Undergraduate Student, A tech enthusiast and  smart working individual who lo
 [![Generic badge](https://img.shields.io/badge/React-Red.svg)]() [![Generic badge](https://img.shields.io/badge/NodeJS-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/MongoDB-Yellow.svg)]()
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Ayesha_Ghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshaghani098/)](https://www.linkedin.com/in/ayeshaghani098/) 
+
+
+
+
+![Ayesha's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
