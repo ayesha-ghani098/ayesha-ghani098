@@ -4,7 +4,7 @@
 
 An Undergraduate Student, A tech enthusiast and  smart working individual who loves creativity and can work devotedly being part of groups as well as individually and always keen to learn new skills.
 - 😄 Pronouns: She/her
-[![Linkedin Badge](https://img.shields.io/badge/-Ayesha Ghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshaghani098/)](https://www.linkedin.com/in/ayeshaghani098/) 
+-[![Linkedin Badge](https://img.shields.io/badge/-Ayesha Ghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshaghani098/)](https://www.linkedin.com/in/ayeshaghani098/) 
 ---
 ##  Education
 - BSCS Student @KU
@@ -16,5 +16,5 @@ An Undergraduate Student, A tech enthusiast and  smart working individual who lo
  [![Generic badge](https://img.shields.io/badge/HTML-Red.svg)]() [![Generic badge](https://img.shields.io/badge/CSS-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Bootstrap-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/JavaScript-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Fiirebase-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Java-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/JavaFx-Basics-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/Rust-Green.svg)]() [![Generic badge](https://img.shields.io/badge/EmbeddedRust-Blue.svg)]() [![Generic badge](https://img.shields.io/badge/Docker-Blue.svg)]() [![Generic badge](https://img.shields.io/badge/Python-Basics-Red.svg)]() [![Generic badge](https://img.shields.io/badge/Git-Black.svg)]()
 #
 ## ⚡ I'm currently learning
-[![Generic badge](https://img.shields.io/badge/React-Red.svg)]() [![Generic badge](https://img.shields.io/badge/Node.js-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/MongoDB-Blue.svg)]()
+[![Generic badge](https://img.shields.io/badge/React-Red.svg)]() [![Generic badge](https://img.shields.io/badge/NodeJS-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/MongoDB-Blue.svg)]()
 
