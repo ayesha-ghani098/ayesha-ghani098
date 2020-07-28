@@ -17,4 +17,3 @@ An Undergraduate Student, A tech enthusiast and  smart working individual who lo
 ## ⚡ I'm currently learning
 [![Generic badge](https://img.shields.io/badge/React-Red.svg)]() [![Generic badge](https://img.shields.io/badge/NodeJS-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/MongoDB-Yellow.svg)]()
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/)](https://www.linkedin.com/in/sulthannk/) 
