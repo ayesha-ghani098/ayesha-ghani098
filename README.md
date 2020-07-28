@@ -4,6 +4,7 @@
 
 An Undergraduate Student, A tech enthusiast and  smart working individual who loves creativity and can work devotedly being part of groups as well as individually and always keen to learn new skills.
 - 😄 Pronouns: She/her
+[![Linkedin Badge](https://img.shields.io/badge/-Ayesha_Ghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshaghani098/)](https://www.linkedin.com/in/ayeshaghani098/) 
 ---
 ##  Education
 - BSCS Student @KU
@@ -17,9 +18,5 @@ An Undergraduate Student, A tech enthusiast and  smart working individual who lo
 ## ⚡ I'm currently learning
 [![Generic badge](https://img.shields.io/badge/React-Red.svg)]() [![Generic badge](https://img.shields.io/badge/NodeJS-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/MongoDB-Yellow.svg)]()
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-Ayesha_Ghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshaghani098/)](https://www.linkedin.com/in/ayeshaghani098/) 
-
-
-
 
 ![Ayesha's github stats](https://github-readme-stats.vercel.app/api?username=ayesha-ghani098&show_icons=true)
