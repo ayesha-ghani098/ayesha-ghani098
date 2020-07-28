@@ -22,4 +22,4 @@ An Undergraduate Student, A tech enthusiast and  smart working individual who lo
 
 
 
-![Ayesha's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![Ayesha's github stats](https://github-readme-stats.vercel.app/api?username=ayesha-ghani098&show_icons=true)
