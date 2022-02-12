@@ -1,6 +1,6 @@
 # Hey, I'm Ayesha Ghani
 
-A junior year student, A tech enthusiast and  smart working individual who loves creativity and can work devotedly being part of groups as well as individually and always keen to learn new skills. 
+A senior year student, A tech enthusiast and  smart working individual who loves creativity and can work devotedly being part of groups as well as individually and always keen to learn new skills. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ayesha_Ghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshaghani098/)](https://www.linkedin.com/in/ayeshaghani098/) 
 ---
