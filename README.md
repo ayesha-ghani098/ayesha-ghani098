@@ -2,7 +2,7 @@
 
 #### Full-stack developer. Part-time bug whisperer. Occasional chatbot therapist.
 
-Full-Stack Software Engineer at [Wavetec](https://www.wavetec.com/);  
+Full-Stack Software Engineer at [Wavetec](https://www.wavetec.com/) ;
 <br>
 
 ---
